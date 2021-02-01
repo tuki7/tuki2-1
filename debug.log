@@ -1,0 +1,5 @@
+[0128/002213.989:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[0128/002359.284:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0128/002359.455:ERROR:file_io_win.cc(162)] CreateFile C:\Users\Win8\AppData\Local\Temp\puppeteer_dev_chrome_profile-pk2i3z\Crashpad\settings.dat: El sistema no puede encontrar la ruta especificada. (0x3)
+[0128/002359.455:ERROR:file_io_win.cc(171)] CreateFile C:\Users\Win8\AppData\Local\Temp\puppeteer_dev_chrome_profile-pk2i3z\Crashpad\reports\0b078495-859a-409b-a5ec-39982ecaa1c9.dmp: El sistema no puede encontrar la ruta especificada. (0x3)
+[0128/002359.455:ERROR:crash_report_exception_handler.cc(99)] PrepareNewCrashReport failed
